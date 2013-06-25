@@ -6,4 +6,4 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-log "hello knife solo!!!!!!!!!!!!!!!!!!!!"
+log "Hello, knife solo!!"
