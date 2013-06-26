@@ -1,5 +1,7 @@
 {
-  "run_list":[
-    "nginx"
+  "run_list": [
+    "hello",
+    "nginx",
+    "tree"
   ]
 }
